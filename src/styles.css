@@ -52,3 +52,8 @@ li {
   text-align: centre;
   display: block;
 }
+
+#linkToGit {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
